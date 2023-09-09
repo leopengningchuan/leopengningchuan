@@ -1,4 +1,4 @@
-Hi, I’m Leo Peng. I’m currently a second year master of Business Analytics grad student in USC Marshall. I’m interested in data analysis and data related projects.
+Hi, I’m Leo Peng. I’m currently a Data Analyst at Tripalink in Los Angeles, CA. I’m interested in data analysis and data related projects.
 
 Here are some links I find useful in data analysis:
 
