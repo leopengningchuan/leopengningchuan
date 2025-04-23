@@ -7,6 +7,6 @@ Here are some links I find useful in data analysis:
 - [Mathematics in R Markdown](https://rpruim.github.io/s341/S19/from-class/MathinRmd.html)
 
 <!---
-np1221/np1221 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+leopengningchuan/np1221 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
