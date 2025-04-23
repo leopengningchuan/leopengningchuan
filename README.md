@@ -1,4 +1,4 @@
-Hi, I’m Leo Peng. I’m currently a Data Analyst at Tripalink in Los Angeles, CA. I’m interested in data analysis and data related projects.
+Hi, I’m Leo Peng. I’m currently a Financial Analyst at Luminys Systems Corp. in Irvine, CA. I’m interested in data analysis and data related projects.
 
 Here are some links I find useful in data analysis:
 
