@@ -20,17 +20,17 @@
   [
    {'company': 'Luminys Systems Corp.',
     'title': 'Financial Analyst',
-    'description': 'Focused on data efficiency, accounting operations, financial analysis, and budget planning',
+    'description': ['data efficiency', 'accounting', 'financial analysis', 'budget planning'],
     'current_job': True
     },
    {'company': 'Tripalink',
     'title': 'Data Analyst',
-    'description': 'Analyzed product trends and performance metrics to support data-driven decision-making',
+    'description': ['data pipeline', 'product analysis', 'financial analysis', 'dashboard building'],
     'current_job': False
     },
    {'company': 'Ernst & Young',
     'title': 'Auditor',
-    'description': 'Conducted financial audits with hands-on modeling and team coordination responsibilities',
+    'description': ['auditing', 'financial modeling'],
     'current_job': False
     }
     ]
