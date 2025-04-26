@@ -2,7 +2,7 @@
 {
   'name': 'Leo Peng',
   'location': 'Arcadia, CA',
-  'linkedin': 'https://www.linkedin.com/in/leo-peng-ningchuan/'
+  'linkedin': 'https://www.linkedin.com/in/leo-peng-ningchuan/',
 
   'education':
   [
@@ -20,15 +20,18 @@
   [
    {'company': 'Luminys Systems Corp.',
     'title': 'Financial Analyst',
-    'description': 'Focused on data efficiency, accounting operations, financial analysis, and strategic budget planning'
+    'description': 'Focused on data efficiency, accounting operations, financial analysis, and strategic budget planning',
+    'current_job': True
     },
    {'company': 'Tripalink',
     'title': 'Data Analyst',
-    'description': 'Analyzed product trends and performance metrics to support data-driven decision-making'
+    'description': 'Analyzed product trends and performance metrics to support data-driven decision-making',
+    'current_job': False
     },
    {'company': 'Ernst & Young',
     'title': 'Auditor',
-    'description': 'Conducted financial audits with hands-on modeling and team coordination responsibilities'
+    'description': 'Conducted financial audits with hands-on modeling and team coordination responsibilities',
+    'current_job': False
     }
     ]
 }
