@@ -26,10 +26,10 @@
     'title': 'Data Analyst',
     'description': 'Analyzed product trends and performance metrics to support data-driven decision-making'
     },
-    {'company': 'Ernst & Young',
-     'title': 'Auditor',
-     'description': 'Conducted financial audits with hands-on modeling and team coordination responsibilities'
-     }
+   {'company': 'Ernst & Young',
+    'title': 'Auditor',
+    'description': 'Conducted financial audits with hands-on modeling and team coordination responsibilities'
+    }
     ]
 }
 ```
