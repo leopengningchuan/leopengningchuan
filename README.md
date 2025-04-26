@@ -20,7 +20,7 @@
   [
    {'company': 'Luminys Systems Corp.',
     'title': 'Financial Analyst',
-    'description': 'Focused on data efficiency, accounting operations, financial analysis, and strategic budget planning',
+    'description': 'Focused on data efficiency, accounting operations, financial analysis, and budget planning',
     'current_job': True
     },
    {'company': 'Tripalink',
