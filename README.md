@@ -25,7 +25,7 @@
     },
    {'company': 'Tripalink',
     'title': 'Data Analyst',
-    'description': ['data pipeline', 'product analysis', 'financial analysis', 'dashboard building'],
+    'description': ['data pipeline', 'product analysis', 'modeling', 'dashboard building'],
     'current_job': False
     },
    {'company': 'Ernst & Young',
