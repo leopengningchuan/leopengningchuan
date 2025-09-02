@@ -3,6 +3,7 @@
   'name': 'Leo Peng',
   'location': 'Arcadia, CA',
   'linkedin': 'https://www.linkedin.com/in/leo-peng-ningchuan/',
+  'tableau public': 'https://public.tableau.com/app/profile/leo.peng.ningchuan/vizzes',
 
   'education':
   [{'school': 'University of Southern California',
