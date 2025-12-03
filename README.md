@@ -39,7 +39,8 @@
     'current_job': False}],
 
   'licenses_certifications':
-  [{'issuer': 'Udemy', 'name': 'Unlock Excel VBA and Excel Macros'},
+  [{'issuer': 'Google', 'name': 'Google Prompting Essentials'},
+   {'issuer': 'Udemy', 'name': 'Unlock Excel VBA and Excel Macros'},
    {'issuer': 'Duke University', 'name': 'Data Analysis with R'},
    {'issuer': 'DataCamp', 'name': 'SQL Server Developer Track'},
    {'issuer': 'DeepLearning.AI', 'name': 'Deep Learning'},
